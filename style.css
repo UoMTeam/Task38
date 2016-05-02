@@ -1,0 +1,17 @@
+table {
+font-size: 20px;
+padding: 5px;
+border-collapse: collapse;
+}
+tr>th{
+	width: 100px;
+	border: solid 1px black;
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+td{
+	text-align: center;
+	padding: 10px;
+	border: solid 1px black;
+}
